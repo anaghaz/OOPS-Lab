@@ -19,6 +19,6 @@ public class CO3Pgrm6
 public static void main(String[] args) 
 {  
     System.out.println(StringFormatter.reverseWord("Hai World"));  
-    System.out.println(StringFormatter.reverseWord("I'm Fathimath Dilsha"));    
+    System.out.println(StringFormatter.reverseWord("I'm Anagha"));    
     }  
 }
